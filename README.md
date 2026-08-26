@@ -35,5 +35,5 @@ work), reliably enough that a researcher can trust the results.
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JianyuLin1999&theme=transparent" alt="Repos per language" height="180" />
-  <img src="https://streak-stats.demolab.com?user=JianyuLin1999&theme=transparent&hide_border=true" alt="Contribution streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JianyuLin1999&theme=transparent" alt="GitHub stats" height="180" />
 </p>

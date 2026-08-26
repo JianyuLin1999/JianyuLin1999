@@ -31,6 +31,9 @@ work), reliably enough that a researcher can trust the results.
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JianyuLin1999&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JianyuLin1999&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JianyuLin1999&theme=transparent" alt="GitHub profile summary" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JianyuLin1999&theme=transparent" alt="Repos per language" height="180" />
+  <img src="https://streak-stats.demolab.com?user=JianyuLin1999&theme=transparent&hide_border=true" alt="Contribution streak" height="180" />
 </p>

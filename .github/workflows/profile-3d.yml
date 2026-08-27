@@ -14,10 +14,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit chart
+      - name: Build stats card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/build_stats_svg.py
+      - name: Commit charts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib
-          git commit -m "Update 3D contribution chart" || exit 0
+          git add profile-3d-contrib assets
+          git commit -m "Update contribution charts" || exit 0
           git push

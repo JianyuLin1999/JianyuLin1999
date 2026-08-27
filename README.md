@@ -31,9 +31,11 @@ work), reliably enough that a researcher can trust the results.
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JianyuLin1999&theme=transparent" alt="GitHub profile summary" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" />
+  </picture>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JianyuLin1999&theme=transparent" alt="Repos per language" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JianyuLin1999&theme=transparent" alt="GitHub stats" height="180" />
 </p>

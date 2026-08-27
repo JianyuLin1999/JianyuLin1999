@@ -32,6 +32,12 @@ work), reliably enough that a researcher can trust the results.
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+    <img src="assets/stats-light.svg" alt="Contribution stats" width="100%" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
     <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" />
   </picture>
